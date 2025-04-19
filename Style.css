@@ -1,0 +1,66 @@
+/* Apply body styles */
+body {
+    font-family: 'Russo One', sans-serif; /* Use the anime font */
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  /* Style header */
+  #header {
+    font-family: 'Russo One', sans-serif; /* Ensure the font is applied to the header */
+    font-size: 40px;
+    text-align: center;
+    color: #ff4500; /* Orange color like Naruto's outfit */
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.6); /* A shadow effect for the title */
+    margin-top: 20px;
+  }
+  
+  /* Style paragraphs with .highlight class */
+  .highlight {
+    background-color: #ffcc00; /* Yellow like Naruto's headband */
+    font-weight: bold;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 15px;
+    font-family: 'Russo One', sans-serif; /* Apply font */
+  }
+  
+  /* Style paragraphs with .description class */
+  .description {
+    line-height: 1.8;
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin: 20px;
+    font-family: 'Russo One', sans-serif; /* Apply font */
+  }
+  
+  /* Style images */
+  img {
+    width: 50%;
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #ff4500; /* Border color similar to Naruto's outfit */
+    padding: 5px;
+    border-radius: 10px;
+  }
+  
+  /* Style divs with .quote class */
+  .quote {
+    font-family: 'Russo One', sans-serif; /* Apply font */
+    font-style: italic;
+    color: #2e2e2e;
+    background-color: #ffe4b5;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    border-left: 5px solid #ff4500;
+    font-size: 20px;
+    border-radius: 8px;
+  }
+  
